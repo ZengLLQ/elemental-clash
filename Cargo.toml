@@ -1,0 +1,13 @@
+[package]
+name = "elemental-clash"
+version = "0.1.0"
+edition = "2021"
+authors = ["Jonathan Cahyadi <veneratesman@gmail.com>"]
+description = "Elemental Clash Game: 5-element tactical RPS-style duel CLI game in Rust with multi-round AI combat."
+license = "MIT"
+repository = "https://github.com/ZengLLQ/elemental-clash"
+keywords = ["game", "elements", "cli-game", "turn-based", "tactics"]
+categories = ["games"]
+
+[dependencies]
+rand = "0.8"
